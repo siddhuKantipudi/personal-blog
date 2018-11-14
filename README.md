@@ -1,2 +1,2 @@
 # personal-blog
-Blog about what i learn to help improve others
+Blog about my photography
