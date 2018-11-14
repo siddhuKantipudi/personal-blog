@@ -1,0 +1,28 @@
+{
+  "name": "my-blog",
+  "version": "1.0.0",
+  "description": "Hub for my photography",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddhuKantipudi/personal-blog.git"
+  },
+  "keywords": [
+    "photography"
+  ],
+  "author": "siddhu.kantipudi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/siddhuKantipudi/personal-blog/issues"
+  },
+  "homepage": "https://github.com/siddhuKantipudi/personal-blog#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "webpack": "^4.25.1"
+  }
+}
