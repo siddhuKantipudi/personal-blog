@@ -1,2 +1,2 @@
 # personal-blog
-Blog about my photography
+### Trying to write about my self as I geek code
